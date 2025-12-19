@@ -122,5 +122,6 @@ dependencies {
 
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
+    debugImplementation("com.squareup.leakcanary:leakcanary-android:2.14")
 }
 
